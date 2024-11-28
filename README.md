@@ -58,7 +58,7 @@ python proxy.py
 ---
 
 ## **Contact**
-If you have any questions or suggestions, feel free to contact me at [Your Contact Info].
+If you have any questions or suggestions, feel free to contact me at ian980306@gmail.com.
 
 ---
 
